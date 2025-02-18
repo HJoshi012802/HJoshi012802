@@ -1,1 +1,1 @@
-![](/banner.gif)
+![](/banner.png)
