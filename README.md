@@ -1,1 +1,1 @@
-<img src="/banner.gif" style="border-radius:20px">
+<img src="/banner.gif" style="border-radius:20px" />
