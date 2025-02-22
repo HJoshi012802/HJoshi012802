@@ -1,3 +1,2 @@
-![](/god.png)
 ![](/banner.gif)
 
